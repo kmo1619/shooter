@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\1619k\source\repos\키입력연습\키입력연습\소스.cpp(4,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  키입력연습.vcxproj -> C:\Users\1619k\source\repos\키입력연습\x64\Debug\키입력연습.exe
